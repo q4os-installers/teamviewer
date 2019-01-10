@@ -1,0 +1,22 @@
+ <!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+
+<Menu>
+	<Name>TeamViewer</Name>
+	<DefaultLayout show_empty="true">
+		<Merge type="menus"/>
+		<Merge type="files"/>
+	</DefaultLayout>
+	<Layout>
+		<Filename>com.teamviewer.TeamViewer.desktop</Filename>
+		<Filename>q4os-teamviewer_uninstall.desktop</Filename>
+	</Layout>
+	<Include>
+		<Filename>com.teamviewer.TeamViewer.desktop</Filename>
+		<Filename>q4os-teamviewer_uninstall.desktop</Filename>
+	</Include>
+</Menu>
+
+</Menu>
