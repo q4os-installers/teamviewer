@@ -1,4 +1,4 @@
-# teamviewer
+# Teamviewer installer for Q4OS
 
 prerequisities to build the installer:
 - first read https://www.q4os.org/dqa009.html
