@@ -1,2 +1,2 @@
 deb [ trusted=yes ] http://linux.teamviewer.com/deb stable main
-deb [ trusted=yes ] http://linux.teamviewer.com/deb preview main
+#deb [ trusted=yes ] http://linux.teamviewer.com/deb preview main
