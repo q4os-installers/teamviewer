@@ -1,0 +1,6 @@
+#!/bin/sh -e
+
+if [ "$1" = remove ] ; then
+  echo "Remove possible Teamviewer repositories"
+  rm -f /etc/apt/sources.list.d/teamviewer.list
+fi
