@@ -1,2 +1,0 @@
-deb [signed-by=/usr/share/keyrings/q4a-teamviewer.gpg trusted=yes] http://linux.teamviewer.com/deb stable main
-#deb [signed-by=/usr/share/keyrings/q4a-teamviewer.gpg trusted=yes] http://linux.teamviewer.com/deb preview main

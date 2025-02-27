@@ -1,0 +1,4 @@
+deb [signed-by=/usr/share/keyrings/q4a-teamviewer.gpg trusted=yes] http://linux.teamviewer.com/deb stable main
+##_deb [signed-by=/usr/share/keyrings/q4a-teamviewer.gpg trusted=yes] http://linux.teamviewer.com/deb preview main
+
+##_deb [trusted=yes] http://q4os.org/qexarepo/teamviewer bookworm-teamviewer-cn main

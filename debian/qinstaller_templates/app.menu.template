@@ -11,11 +11,11 @@
 	</DefaultLayout>
 	<Layout>
 		<Filename>com.teamviewer.TeamViewer.desktop</Filename>
-		<Filename>q4os-teamviewer_uninstall.desktop</Filename>
+		<Filename>teamviewer-extq_uninstall.desktop</Filename>
 	</Layout>
 	<Include>
 		<Filename>com.teamviewer.TeamViewer.desktop</Filename>
-		<Filename>q4os-teamviewer_uninstall.desktop</Filename>
+		<Filename>teamviewer-extq_uninstall.desktop</Filename>
 	</Include>
 </Menu>
 

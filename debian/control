@@ -1,0 +1,17 @@
+Source: teamviewer-extq
+Section: none
+Priority: optional
+Maintainer: Q4OS Team <devteam@q4os.org>
+Build-Depends: debhelper (>= 9~), q4os-devpack-base
+Standards-Version: 3.8.4
+
+Package: teamviewer-extq
+Architecture: all
+Pre-Depends: teamviewer
+Depends: q4os-desktop (>= 4.0)
+Recommends:
+Conflicts: q4os-teamviewer
+Provides: teamviewer-extq
+Replaces:
+Breaks:
+Description: Teamviewer metapackage

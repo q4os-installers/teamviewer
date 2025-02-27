@@ -1,0 +1,9 @@
+#!/bin/sh -e
+
+if [ "$1" = "remove" ] ; then
+  echo "Remove possible Teamviewer repositories"
+  rm -f /etc/apt/sources.list.d/50_teamviewer-extq.list
+  # if ! dash /usr/share/apps/q4os_system/bin/print_package_version.sh "teamviewer" 1>/dev/null ; then
+  #   rm -f /etc/apt/sources.list.d/teamviewer.list
+  # fi
+fi

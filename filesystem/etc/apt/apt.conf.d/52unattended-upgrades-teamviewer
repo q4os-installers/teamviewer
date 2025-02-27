@@ -1,0 +1,8 @@
+Unattended-Upgrade::Origins-Pattern {
+ "o=q4os.org,n=${distro_codename}-teamviewer-cn";
+ "l=Teamviewer,a=stable";
+};
+
+//?or
+//Unattended-Upgrade::Allowed-Origins:: "??q4os.org:${distro_codename}-teamviewer-cn";
+//Unattended-Upgrade::Allowed-Origins:: "??Teamviewer:${distro_codename}";
